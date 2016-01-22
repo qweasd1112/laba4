@@ -1,0 +1,8 @@
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\bin\Debug\ZashitaInformacii4Lab.exe
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\bin\Debug\ZashitaInformacii4Lab.pdb
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\obj\x86\Debug\ZashitaInformacii4Lab.mainForm.resources
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\obj\x86\Debug\ZashitaInformacii4Lab.Properties.Resources.resources
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\obj\x86\Debug\ZashitaInformacii4Lab.csproj.GenerateResource.Cache
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\obj\x86\Debug\ZashitaInformacii4Lab.exe
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\obj\x86\Debug\ZashitaInformacii4Lab.pdb
+D:\Dropbox\ЗащитаИнформации\ZashitaInformacii4Lab\ZashitaInformacii4Lab\obj\x86\Debug\ZashitaInformacii4Lab.csprojResolveAssemblyReference.cache
